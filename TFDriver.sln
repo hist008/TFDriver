@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TFDriver", "TFDriver\TFDriver.vcxproj", "{CFD4FB90-F1BF-4470-9312-4ED129E900EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Driver|Win32 = Driver|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFD4FB90-F1BF-4470-9312-4ED129E900EE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CFD4FB90-F1BF-4470-9312-4ED129E900EE}.Debug|Win32.Build.0 = Debug|Win32
+		{CFD4FB90-F1BF-4470-9312-4ED129E900EE}.Driver|Win32.ActiveCfg = Driver|Win32
+		{CFD4FB90-F1BF-4470-9312-4ED129E900EE}.Driver|Win32.Build.0 = Driver|Win32
+		{CFD4FB90-F1BF-4470-9312-4ED129E900EE}.Release|Win32.ActiveCfg = Release|Win32
+		{CFD4FB90-F1BF-4470-9312-4ED129E900EE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
